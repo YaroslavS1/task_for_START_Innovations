@@ -1,4 +1,4 @@
-# Выполнить следующие команды:
+# Установка:
 * Клонировать репозиторий:
 ```bash
 git clone https://github.com/YaroslavS1/task_for_START_Innovations
